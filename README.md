@@ -45,4 +45,4 @@ You can view the live project here: [Live Project Link](https://chatbot-imran.ne
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatbot-react-gpt.git
+   https://github.com/Imran-Shaikh07/Interactive-chatbot.git
